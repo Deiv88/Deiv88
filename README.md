@@ -31,4 +31,44 @@ Construyo aplicaciones de escritorio robustas y soluciones web modernas. Mi enfo
 
 ### Backend & APIs
 
-[![ASP.NET Core](
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/es-es/aspnet/core/)
+[![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2E7D32?style=for-the-badge&logo=arquillian&logoColor=white)](https://learn.microsoft.com/es-es/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures)
+
+- **ASP.NET Core Web API** — diseño y desarrollo de APIs RESTful, configuración de middlewares, inyección de dependencias nativa, políticas CORS y estructuración de endpoints.
+- **Patrones de Diseño & Arquitectura** — aplicación de **Clean Architecture** (separación en capas `Domain`, `Application`, `Infrastructure` y `Presentation/API`), **Repository Pattern**, **DAO**, **Unit of Work** y **DTOs** para mantener el código desacoplado, escalable y fácil de mantener.
+
+### Bases de Datos
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+
+- **MySQL** — diseño relacional, normalización, procedimientos almacenados (*Stored Procedures*), vistas y triggers de auditoría.
+- **SQLite** — almacenamiento local ligero para aplicaciones de escritorio y entornos de prueba.
+
+### Tooling & Entorno
+
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+- **Git & GitHub** · **Visual Studio / VS Code** · **MySQL Workbench** · **Docker** · **Linux (Ubuntu Server)**.
+
+---
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=Deiv88&show_icons=true&count_private=true&theme=transparent&title_color=ffffff&icon_color=666666&text_color=ffffff&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api?username=Deiv88&show_icons=true&count_private=true&theme=default">
+    <img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=Deiv88&show_icons=true&count_private=true&theme=default" height="200px">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Deiv88&layout=compact&langs_count=8&theme=transparent&title_color=ffffff&text_color=ffffff&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Deiv88&layout=compact&langs_count=8&theme=default">
+    <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Deiv88&layout=compact&langs_count=8&theme=default" height="200px">
+  </picture>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Deiv88&theme=transparent&ring=666666&fire=666666&currStreakLabel=ffffff&hide_border=true" alt="GitHub Streak" height="200px"/>
+</div>
